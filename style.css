@@ -1,0 +1,17 @@
+
+body{
+background:#0f0a12;
+color:#f6d0d8;
+font-family:Arial,sans-serif;
+text-align:center;
+padding:20px;
+}
+.card{
+max-width:400px;
+margin:auto;
+padding:20px;
+border:1px solid #b88;
+border-radius:20px;
+}
+.center{margin-top:20vh;}
+button,input{padding:10px;margin:5px;border-radius:10px;}
